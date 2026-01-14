@@ -20,4 +20,4 @@ Implement the `implement_xor` and `get_input_tensors` function in `mlp.py` to tr
    - In the training loop, feed the input tensors through the model to obtain predictions.
 
 ## Testing
-Given the trained MLP model, pass the inputs from the XOR truth table and verify that the predicted outputs match the expected XOR labels.
+Given the trained MLP model, pass the inputs from the XOR truth table and verify that the predicted outputs match the expected XOR labels.  
